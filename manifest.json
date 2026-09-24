@@ -1,0 +1,31 @@
+{
+  "presentation_name": "Mucolite VA v3",
+  "version": "1.0-draft",
+  "source_document_names": [
+    "Mucolite VA v3.pdf"
+  ],
+  "source_document_checksums": {
+    "sha256": "a07b8409a66540374a416cac2544363e41085db00272d7abc3119fe6103d8d3d"
+  },
+  "generation_timestamp": "2026-09-18T09:23:38.204548+00:00",
+  "number_of_sequences": 3,
+  "sequence_filenames": [
+    "slides/slide-01.html",
+    "slides/slide-02.html",
+    "slides/slide-03.html"
+  ],
+  "slide_titles": [
+    "CDSCO Action",
+    "Mucolite Product Visual Aid",
+    "Dosage Information"
+  ],
+  "orientation": "landscape",
+  "target_viewport": "1024x768 (4:3), responsive scaling",
+  "primary_language": "English",
+  "package_structure": "multi-file offline HTML5",
+  "crm_mode": "standalone fallback; OCE API placeholder",
+  "asset_count": 3,
+  "validation_status": "visual render pending human review",
+  "review_status": "human review required",
+  "draft_status": "DRAFT - AI GENERATED - HUMAN REVIEW REQUIRED"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "source_filename": "Mucolite VA v3.pdf",
+    "source_page_number": 1,
+    "generated_sequence_name": "slide-01",
+    "generated_html_filename": "slides/slide-01.html",
+    "source_dimensions": {
+      "rendered_pixels": [
+        2845,
+        2134
+      ],
+      "aspect_ratio": "4:3"
+    },
+    "output_dimensions": {
+      "canvas": "1024x768 responsive"
+    },
+    "extracted_text_blocks": "See content-review-report.md",
+    "reconstructed_html_elements": [
+      "navigation controls",
+      "none"
+    ],
+    "image_based_elements": [
+      "assets/images/slide-01.png"
+    ],
+    "uncertain_content": [],
+    "missing_content": [],
+    "human_review_required": true
+  },
+  {
+    "source_filename": "Mucolite VA v3.pdf",
+    "source_page_number": 2,
+    "generated_sequence_name": "slide-02",
+    "generated_html_filename": "slides/slide-02.html",
+    "source_dimensions": {
+      "rendered_pixels": [
+        2845,
+        2134
+      ],
+      "aspect_ratio": "4:3"
+    },
+    "output_dimensions": {
+      "canvas": "1024x768 responsive"
+    },
+    "extracted_text_blocks": "See content-review-report.md",
+    "reconstructed_html_elements": [
+      "navigation controls",
+      "interactive hotspot"
+    ],
+    "image_based_elements": [
+      "assets/images/slide-02.png"
+    ],
+    "uncertain_content": [],
+    "missing_content": [],
+    "human_review_required": true
+  },
+  {
+    "source_filename": "Mucolite VA v3.pdf",
+    "source_page_number": 3,
+    "generated_sequence_name": "slide-03",
+    "generated_html_filename": "slides/slide-03.html",
+    "source_dimensions": {
+      "rendered_pixels": [
+        2845,
+        2134
+      ],
+      "aspect_ratio": "4:3"
+    },
+    "output_dimensions": {
+      "canvas": "1024x768 responsive"
+    },
+    "extracted_text_blocks": "See content-review-report.md",
+    "reconstructed_html_elements": [
+      "navigation controls",
+      "interactive hotspot"
+    ],
+    "image_based_elements": [
+      "assets/images/slide-03.png"
+    ],
+    "uncertain_content": [],
+    "missing_content": [],
+    "human_review_required": true
+  }
+]

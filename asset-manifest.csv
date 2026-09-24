@@ -1,0 +1,4 @@
+filename,source_page,asset_type,purpose,optimization_applied
+assets/images/slide-01.png,1,page render,exact visual preservation,lossless PNG; no visible redesign
+assets/images/slide-02.png,2,page render,exact visual preservation,lossless PNG; no visible redesign
+assets/images/slide-03.png,3,page render,exact visual preservation,lossless PNG; no visible redesign
